@@ -1,4 +1,4 @@
-#使用最简单的逻辑查看react 打包后的大小(with es6)
+#使用最简单的逻辑查看react 打包后的大小(without es6)
 
 ##webpack
 ###过程
